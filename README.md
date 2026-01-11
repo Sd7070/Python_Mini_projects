@@ -17,59 +17,17 @@ This repository contains a series of Python mini projects designed to demonstrat
 - 📚 Well-documented code with explanations
 - 🔄 Regularly updated with new projects
 
-**Note**: Projects are being added daily. Check back regularly for new additions!
+**Note**: Projects are being added. Check back regularly for new additions!
 
 ## Projects
 
-### Project 1: [Project Name]
-📅 **Added**: [Today's Date]  
-📄 **File**: `project_1.ipynb`
+### Project 1: Smart Traffic Fine Management System 
+📄 **File**: `Python_mini_project1.ipynb`
 
 Brief description of the project, what it does, and what you'll learn.
 
-**Technologies**: Python, pandas, matplotlib
+**Technologies**: Python.
 
----
-
-### Project 2: [Project Name]
-📅 **Added**: [Date]  
-📄 **File**: `project_2.ipynb`
-
-Brief description of the project, what it does, and what you'll learn.
-
-**Technologies**: Python, numpy, seaborn
-
----
-
-### Project 3: [Project Name]
-📅 **Added**: [Date]  
-📄 **File**: `project_3.ipynb`
-
-Brief description of the project, what it does, and what you'll learn.
-
-**Technologies**: Python, scikit-learn, plotly
-
----
-
-### Project 4: [Project Name]
-📅 **Added**: [Date]  
-📄 **File**: `project_4.ipynb`
-
-Brief description of the project, what it does, and what you'll learn.
-
-**Technologies**: Python, [libraries]
-
----
-
-### Project 5: [Project Name]
-📅 **Added**: [Date]  
-📄 **File**: `project_5.ipynb`
-
-Brief description of the project, what it does, and what you'll learn.
-
-**Technologies**: Python, [libraries]
-
----
 
 ## Getting Started
 
@@ -84,15 +42,6 @@ To use these projects:
 
 - **Python 3.x** - Programming language
 - **Jupyter Notebook** - Interactive development environment
-- Common libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, plotly, and more
-
-## Project Status
-
-- ✅ Project 1 - Completed (Added Today)
-- ⏳ Project 2 - Coming Soon
-- ⏳ Project 3 - Coming Soon
-- ⏳ Project 4 - Coming Soon
-- ⏳ Project 5 - Coming Soon
 
 **Update Frequency**: New projects added daily!
 
