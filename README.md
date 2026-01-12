@@ -24,6 +24,9 @@ This repository contains a series of Python mini projects designed to demonstrat
 ### Project 1: Smart Traffic Fine Management System 
 📄 **File**: `Python_mini_project1.ipynb`
 
+### Project 2: Movie Ticket Pricing System  
+📄 **File**: `Python_mini_project2.ipynb`
+
 Brief description of the project, what it does, and what you'll learn.
 
 **Technologies**: Python.
