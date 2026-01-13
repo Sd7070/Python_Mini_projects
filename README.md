@@ -30,6 +30,9 @@ This repository contains a series of Python mini projects designed to demonstrat
 ### Project 3: Online Food Ordering System   
 📄 **File**: `Python_mini_project3.ipynb`
 
+### Project 4: Secure Password Vault    
+📄 **File**: `Python_mini_project4.ipynb`
+
 Brief description of the project, what it does, and what you'll learn.
 
 **Technologies**: Python.
