@@ -33,6 +33,9 @@ This repository contains a series of Python mini projects designed to demonstrat
 ### Project 4: Secure Password Vault    
 📄 **File**: `Python_mini_project4.ipynb`
 
+### Project 4: Quiz Game   
+📄 **File**: `Python_mini_project5.ipynb`
+
 Brief description of the project, what it does, and what you'll learn.
 
 **Technologies**: Python.
